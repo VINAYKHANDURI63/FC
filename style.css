@@ -112,7 +112,7 @@ p{
     
   }
 
- h4{
+ footer{
     color: #00b894;
     text-align: center;
     display: flex;
@@ -126,3 +126,19 @@ p{
     align-items: center;
 
  }
+ h4{
+    font-size: 30px;
+    line-height: 60px;
+    transition: .6s;
+    color:rgb(195, 133, 188);
+    display: inline;
+
+  }
+h5{  
+    font-size: 30px;
+    line-height: 60px;
+    transition: .6s;
+    color:rgb(133, 165, 195);
+    display: inline;
+  }
+  
