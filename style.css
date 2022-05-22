@@ -126,27 +126,6 @@ p{
     align-items: center;
 
  }
- h5{
-     
-    color: #00b894;
-    text-align: center;
-    display: flex;
-    opacity: rgba(0,0,0,0.2);
-    background-color: rgba(0,0,0,0.4);
-    font-size: 35px;
-    justify-content: center;
-    text-decoration: underline;
-    font-weight: 300; font-style: italic;
-    padding-left: 100px;
-    align-items: center;
-
-    font-size: 30px;
-    line-height: 60px;
-    transition: .6s;
-    color:rgb(195, 133, 188);
-    display: inline;
-
-  }
 h4{  
     
     color: #00b894;
@@ -166,5 +145,27 @@ h4{
     transition: .6s;
     color:rgb(133, 165, 195);
     display: inline;
+  }
+
+h5{
+     
+    color: #00b894;
+    text-align: center;
+    display: flex;
+    opacity: rgba(0,0,0,0.2);
+    background-color: rgba(0,0,0,0.4);
+    font-size: 35px;
+    justify-content: center;
+    text-decoration: underline;
+    font-weight: 300; font-style: italic;
+    padding-left: 100px;
+    align-items: center;
+
+    font-size: 30px;
+    line-height: 60px;
+    transition: .6s;
+    color:rgb(195, 133, 188);
+    display: inline;
+
   }
   
